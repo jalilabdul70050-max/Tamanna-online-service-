@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tamanna | Online Service</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; background:#f4f6f8;}
+    header {background:#6c63ff; color:#fff; padding:20px; text-align:center;}
+    nav {background:#333; padding:10px; text-align:center;}
+    nav a {color:#fff; margin:0 15px; text-decoration:none; font-weight:bold;}
+    section {padding:30px;}
+    .card {background:#fff; padding:20px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); margin-bottom:20px;}
+    footer {background:#222; color:#fff; text-align:center; padding:15px;}
+    h2 {color:#333;}
+  </style>
+</head>
+<body><header>
+  <h1>Tamanna</h1>
+  <p>Online Service Website | অনলাইন সার্ভিস</p>
+</header><nav>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+</nav><section id="services">
+  <div class="card">
+    <h2>Our Services | আমাদের সার্ভিস</h2>
+    <ul>
+      <li>Online Form Fill-up</li>
+      <li>Digital Services</li>
+      <li>Application Support</li>
+      <li>Other Online Help</li>
+    </ul>
+  </div>
+</section><section id="contact">
+  <div class="card">
+    <h2>Contact Us | যোগাযোগ করুন</h2>
+    <p>📞 Mobile / WhatsApp: <strong>7005018993</strong></p>
+    <p>⏰ Available: 9 AM - 9 PM</p>
+  </div>
+</section><footer>
+  <p>© 2026 Tamanna Online Service. All Rights Reserved.</p>
+</footer></body>
+</html>
